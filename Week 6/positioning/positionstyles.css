@@ -45,12 +45,14 @@
 /* Activity 2 styles */ 
 .content2 {
   /* This is the parent of the activity 2 boxes. */
+  
 }
 .red2 {
   width: 100px; 
   height: 100px; 
   background-color: red; 
   float: 55;
+  
 } 
 .green2 { 
   width: 100px; 
